@@ -1,0 +1,31 @@
+
+#Crea virtual env
+
+C:\Python34\python -m venv myvenv
+
+#Attiva virtual env
+myvenv\Scripts\activate
+
+#install django
+pip install django==1.8
+
+
+Account git
+sonianardin
+elisa2008
+
+https://github.com/dashboard
+
+https://www.pythonanywhere.com/registration/register/beginner/
+
+
+account
+sonnar
+elisa2008
+
+
+SUPERUSER-BLOG
+
+username:sonia
+nardin.sonia@gmail.com
+elisa2008
